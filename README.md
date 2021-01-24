@@ -1,4 +1,4 @@
-# numpy-
+以上数据集集均来自网络，如有侵权，请联系我删除
 
-以上都是些开源数据集，感谢开源数据集的奉献者！！！
-世界因开源更美好
+
+The above data sets are from the Internet, if there is any infringement, please contact me to delete
