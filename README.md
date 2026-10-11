@@ -1,3 +1,6 @@
+update： This repository contains research/experimental code from my student years. Some notebooks may be incomplete or contain known issues and are preserved mainly for reference.
+
+
 以上数据集集均来自网络，如有侵权，请联系我删除
 开源的测井曲线数据集，适用于机器学习在自动化测井领域（测井曲线预测、岩性识别等）的应用
 
